@@ -1,0 +1,5 @@
+STABLE DIFFUSION API KEY
+OPENAI API KEY
+CHATGPT PROMPT. INCLUDE: Format your response as Prompt: and then Caption: after that which will be a caption that can be used on Instagram that is trending tab friendly. Don't mention Stable Diffusion or ChatGPT in the caption.
+INSTAGRAM USERNAME
+INSTAGRAM PASSWORD
